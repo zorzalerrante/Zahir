@@ -1,0 +1,20 @@
+Primera versión más o menos "pública" de Zahir :)
+
+Por el momento dejemos claras algunas cosas.
+
+- Este código no está listo para ser usado en producción. Es netamente experimental.
+- La licencia del código es LGPL3.
+
+- Se incluyen las siguientes bibliotecas:
+- OpenMesh openmesh.org
+- OpenNL http://alice.loria.fr/index.php/software/4-library/23-opennl.html
+- Eigen http://eigen.tuxfamily.org/index.php?title=Main_Page
+- L.BFGS http://www.chokkan.org/software/liblbfgs/
+
+Para compilar los programas se necesita:
+- Qt 4.x
+- nvidia Cg Toolkit
+- boost
+- glew
+
+Eso por ahora ;)
